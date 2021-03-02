@@ -1,0 +1,7 @@
+.holder {
+  background-color: cyan;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-around;
+}
